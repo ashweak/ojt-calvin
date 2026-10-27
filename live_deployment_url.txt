@@ -1,0 +1,3 @@
+Student Full Name: [YOUR FULL NAME]
+GitHub Repository URL: https://github.com/[YOUR-GITHUB-USERNAME]/ojt-portfolio
+Live Deployment URL: https://[YOUR-GITHUB-USERNAME].github.io/ojt-portfolio/
